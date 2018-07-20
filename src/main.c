@@ -20,7 +20,7 @@ int main(void){
 
 	clrscr();
 
-   	puts("I'm alive! wehfr");
+   	puts("I'm alive! wth");
 
 
    	InitDataCold();
